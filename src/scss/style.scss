@@ -1,0 +1,13 @@
+@import "base";
+@import "variables";
+
+.signup--element-container {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  width: 100%;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 40px auto 20px;
+}
